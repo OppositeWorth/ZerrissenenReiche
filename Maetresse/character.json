@@ -192,7 +192,7 @@
 				"AttUnitMain4": "Pikeman",
 				"AttMaxDefault": 60,
 				"AttMainGroupsCount": 1,
-				"TargetChoice": "Closest",
+				"TargetChoice": "Gold",
 				"AIOxTethers_DisableInitialOxTether": 1,
 				"AIOxTethers_Logic": 1,
 				"AIOxTethers_MaxOxTethers": 7,
