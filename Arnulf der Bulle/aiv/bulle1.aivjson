@@ -1,0 +1,4151 @@
+{
+  "pauseDelayAmount": 100,
+  "frames": [
+    {
+      "itemType": 61,
+      "tilePositionOfsets": [
+        5643
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 80,
+      "tilePositionOfsets": [
+        4451
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 52,
+      "tilePositionOfsets": [
+        5455
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 77,
+      "tilePositionOfsets": [
+        1536
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 51,
+      "tilePositionOfsets": [
+        1049
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 51,
+      "tilePositionOfsets": [
+        1041
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        3569
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        3522
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 330,
+      "tilePositionOfsets": [
+        4051
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        1955
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        1934
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 74,
+      "tilePositionOfsets": [
+        5955
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 76,
+      "tilePositionOfsets": [
+        3656
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        3647
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        3651
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 87,
+      "tilePositionOfsets": [
+        6962
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        1930
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 92,
+      "tilePositionOfsets": [
+        1767
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 83,
+      "tilePositionOfsets": [
+        4560
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 85,
+      "tilePositionOfsets": [
+        1052
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 82,
+      "tilePositionOfsets": [
+        5638
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        3124
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        3166
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        2763
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        2363
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 112,
+      "tilePositionOfsets": [
+        6144
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        2326
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        1959
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 145,
+      "tilePositionOfsets": [
+        5165
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 145,
+      "tilePositionOfsets": [
+        5123
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 144,
+      "tilePositionOfsets": [
+        2444
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 92,
+      "tilePositionOfsets": [
+        1552
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6341,
+        6342,
+        6240
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6137,
+        6138,
+        6139,
+        6140
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6350,
+        6351,
+        6252,
+        6253,
+        6154,
+        6155,
+        6056,
+        6057,
+        5958,
+        5959,
+        5861,
+        5862,
+        5863,
+        5865,
+        5866,
+        5867,
+        5868,
+        5869,
+        5870
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6450,
+        6451,
+        6352,
+        6353,
+        6254,
+        6255,
+        6156,
+        6157,
+        6058,
+        6059,
+        5960,
+        5961
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6550
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6442,
+        6339,
+        6237,
+        6238,
+        6135,
+        6136,
+        6033,
+        6034,
+        5931,
+        5932,
+        5822,
+        5823,
+        5824,
+        5825,
+        5826,
+        5827,
+        5828,
+        5830
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6542,
+        6441,
+        6340,
+        6239
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6035,
+        5933,
+        5831,
+        5832
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2439,
+        2440,
+        2441,
+        2442,
+        2443
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2449,
+        2450,
+        2451,
+        2452,
+        2453
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6443
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6449
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 86,
+      "tilePositionOfsets": [
+        6918
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 144,
+      "tilePositionOfsets": [
+        6844
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 50,
+      "tilePositionOfsets": [
+        4851
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 81,
+      "tilePositionOfsets": [
+        4856
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 82,
+      "tilePositionOfsets": [
+        6039
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 52,
+      "tilePositionOfsets": [
+        5950
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        3642
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        3251
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3760,
+        3660,
+        3560,
+        3460,
+        3360
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3762,
+        3661,
+        3561
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3761
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4465,
+        4365,
+        4264,
+        4164,
+        4063,
+        3963
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4665,
+        4666,
+        4667,
+        4668,
+        4669
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4565
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4163
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4464,
+        4364
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5728,
+        5628,
+        5528,
+        5428,
+        5328,
+        5228
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5829
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5722,
+        5622,
+        5522,
+        5422,
+        5322,
+        5222
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5223,
+        5224,
+        5225,
+        5226,
+        5227
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4623,
+        4624,
+        4625,
+        4626,
+        4627
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4129
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2612
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2613
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2614
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2615
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2616
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2617
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2618
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2518
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2517
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2516
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2515
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2514
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2512
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2513
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2412
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2413
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2414
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2415
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2416
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2417
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2418
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2318
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2317
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2316
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2315
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2314
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2313
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2312
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2212
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2213
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2214
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2215
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2216
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2217
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2218
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3732,
+        3632,
+        3532,
+        3332
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3731,
+        3631,
+        3531
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3730
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4428,
+        4328,
+        4228,
+        4128,
+        4029,
+        3929
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4527,
+        4427,
+        4327
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5864,
+        5764
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5770,
+        5670,
+        5570,
+        5470,
+        5370,
+        5270
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5265,
+        5266,
+        5267,
+        5268,
+        5269
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 112,
+      "tilePositionOfsets": [
+        5765
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 112,
+      "tilePositionOfsets": [
+        5723
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5642,
+        5542,
+        5442,
+        5342,
+        5242,
+        5142,
+        5042,
+        4942,
+        4842,
+        4742,
+        4642,
+        4542,
+        4442,
+        4342,
+        4242
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4943
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4950,
+        4850,
+        4750,
+        4650,
+        4550,
+        4450,
+        4350,
+        4250
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4949
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4948
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4944
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        6642,
+        6541,
+        6439,
+        6440,
+        6337,
+        6338,
+        6235,
+        6236,
+        6133,
+        6134,
+        6031,
+        6032,
+        5929,
+        5930
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        6650,
+        6551,
+        6452,
+        6453,
+        6354,
+        6355,
+        6256,
+        6257,
+        6158,
+        6159,
+        6060,
+        6061,
+        5962,
+        5963
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4523,
+        4524,
+        4525,
+        4526
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4426,
+        4326,
+        4227,
+        4127,
+        4028,
+        3928,
+        3829,
+        3729
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        3630,
+        3530,
+        3431,
+        3331
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2339,
+        2340,
+        2341
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4466,
+        4366,
+        4265,
+        4165,
+        4064,
+        3964,
+        3863,
+        3763,
+        3662,
+        3562,
+        3461,
+        3361,
+        2759
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4566,
+        4567,
+        4568,
+        4569
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2351,
+        2352,
+        2353
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        5921,
+        5922,
+        5923,
+        5924,
+        5925,
+        5926,
+        5927,
+        5928
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        5821,
+        5721,
+        5621,
+        5521,
+        5421
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        5964,
+        5965,
+        5966,
+        5967,
+        5968,
+        5969,
+        5970,
+        5971
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        5871,
+        5771,
+        5671,
+        5571,
+        5471
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        1033
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        1056
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 85,
+      "tilePositionOfsets": [
+        1926
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2012
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2013
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2014
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2015
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2017
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2016
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        2018
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1918
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1917
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1916
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1915
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1914
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1913
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1912
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1812
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1813
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1814
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1815
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1816
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1817
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1818
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1718
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1717
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1716
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1715
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1714
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1713
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1712
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1612
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1613
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1614
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1615
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1616
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1617
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 200,
+      "tilePositionOfsets": [
+        1618
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 84,
+      "tilePositionOfsets": [
+        4056
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 50,
+      "tilePositionOfsets": [
+        4960
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 83,
+      "tilePositionOfsets": [
+        5661
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        5674,
+        5675,
+        5573,
+        5574,
+        5575,
+        5472,
+        5473,
+        5474,
+        5371,
+        5372,
+        5373,
+        5374,
+        5375,
+        5376,
+        5377,
+        5378,
+        5271,
+        5272,
+        5170,
+        5171,
+        5172,
+        5070,
+        5071,
+        5072,
+        4970,
+        4971,
+        4870
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7719,
+        7618,
+        7619,
+        7517,
+        7518,
+        7519,
+        7416,
+        7417,
+        7315,
+        7316,
+        7317,
+        7214,
+        7215,
+        7216,
+        7114,
+        7115,
+        7116,
+        7013,
+        7014,
+        7015,
+        6913,
+        6914,
+        6915,
+        6812,
+        6813,
+        6814,
+        6712,
+        6713,
+        6714,
+        6612,
+        6613,
+        6511,
+        6512,
+        6513,
+        6411,
+        6412,
+        6413,
+        6311,
+        6312,
+        6313,
+        6212,
+        6213,
+        6214,
+        6112,
+        6113,
+        6114,
+        6013,
+        6014,
+        6015,
+        5913,
+        5914,
+        5915,
+        5814,
+        5815,
+        5816,
+        5714,
+        5715,
+        5716,
+        5717,
+        5615,
+        5616,
+        5617,
+        5618,
+        5516,
+        5517,
+        5518,
+        5519,
+        5418,
+        5419,
+        5420,
+        5320,
+        5321,
+        5220,
+        5221,
+        5120,
+        5121,
+        5122,
+        5021,
+        5022,
+        4921,
+        4922,
+        4818,
+        4819,
+        4820,
+        4821,
+        4822
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7976,
+        7875,
+        7876,
+        7877,
+        7776,
+        7777,
+        7778,
+        7678,
+        7679,
+        7578,
+        7579,
+        7580,
+        7479,
+        7480,
+        7481,
+        7379,
+        7380,
+        7381,
+        7280,
+        7281,
+        7282,
+        7180,
+        7181,
+        7182,
+        7081,
+        7082,
+        7083,
+        6981,
+        6982,
+        6983,
+        6881,
+        6882,
+        6883,
+        6781,
+        6782,
+        6681,
+        6682,
+        6580,
+        6581,
+        6582,
+        6480,
+        6481,
+        6379,
+        6380,
+        6381,
+        6279,
+        6280,
+        6178,
+        6179,
+        6180,
+        6078,
+        6079,
+        5977,
+        5978,
+        5979,
+        5876,
+        5877,
+        5878,
+        5775,
+        5776,
+        5777,
+        5778,
+        5676,
+        5677
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        8434,
+        8334,
+        8234,
+        8131,
+        8132,
+        8133,
+        8134,
+        8135,
+        8136,
+        8137,
+        8034,
+        7934,
+        7834
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        8459,
+        8359,
+        8259,
+        8156,
+        8157,
+        8158,
+        8159,
+        8160,
+        8161,
+        8162,
+        8059,
+        7959,
+        7859
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5763
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5761,
+        5762
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        7367
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 85,
+      "tilePositionOfsets": [
+        1963
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6234
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6233
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6333
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6434
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6435,
+        6436
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6537
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6638
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6640
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6741
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6842
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6742,
+        6641
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6538,
+        6539
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6841
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6941
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6942
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6540
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6639
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6437,
+        6438
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6335,
+        6336
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6334
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6455,
+        6456
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6554,
+        6454
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6653
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 110,
+      "tilePositionOfsets": [
+        4060
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 110,
+      "tilePositionOfsets": [
+        4030
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6850
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6750
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6751
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6651,
+        6652
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6552
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6553
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6657
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6555
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 85,
+      "tilePositionOfsets": [
+        1037
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6556
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6557,
+        6457
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6356,
+        6357
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6358,
+        6359
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6260
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6160
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6161
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6261
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6851
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6950
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6951
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6852
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6654
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6655
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6656
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6458
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6258
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6259
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6360
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6952
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6953
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6853,
+        6854
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6855
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6940
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6839,
+        6840
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6838
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6636,
+        6637,
+        6535,
+        6536
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 180,
+      "tilePositionOfsets": [
+        6772
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 88,
+      "tilePositionOfsets": [
+        7028
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        6579,
+        6479,
+        6378,
+        6278,
+        6177,
+        6077,
+        5976,
+        5875,
+        5774,
+        5673,
+        5572
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        7677,
+        7577,
+        7478,
+        7378,
+        7279,
+        7179,
+        7080,
+        6980,
+        6880,
+        6780,
+        6680
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        8075,
+        7975
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        8076,
+        7977,
+        7878,
+        7779,
+        7680,
+        7581,
+        7482,
+        7382,
+        7283,
+        7183,
+        7084
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        6984,
+        6884,
+        6783,
+        6683,
+        6583,
+        6482,
+        6382,
+        6281,
+        6181,
+        6080,
+        5980,
+        5879,
+        5779,
+        5678,
+        5576,
+        5577,
+        5475
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        6784
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        5273,
+        5173,
+        5073,
+        4972,
+        4871,
+        4770
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        7418,
+        7318,
+        7217,
+        7117,
+        7016,
+        6916,
+        6815,
+        6715,
+        6614,
+        6514,
+        6414,
+        6314
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        6215,
+        6115,
+        6016,
+        5916,
+        5817,
+        5718,
+        5619,
+        5520
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        7819,
+        7820,
+        7718,
+        7617,
+        7516,
+        7415,
+        7314,
+        7213,
+        7113,
+        7012,
+        6912,
+        6811,
+        6711,
+        6611,
+        6510,
+        6410,
+        6310
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        6211,
+        6111,
+        6012,
+        5912,
+        5813,
+        5713,
+        5614,
+        5515,
+        5416,
+        5417,
+        5318,
+        5319
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        5219,
+        5119,
+        5020,
+        4920
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 46,
+      "tilePositionOfsets": [
+        4722
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        4721,
+        4622
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        5218,
+        5118,
+        5019,
+        4919
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        5613,
+        5514,
+        5415,
+        5316,
+        5317
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        6509,
+        6409,
+        6309,
+        6210,
+        6110,
+        6011,
+        5911,
+        5812,
+        5712
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        6415,
+        6315,
+        6216,
+        6116,
+        6017,
+        5917,
+        5818,
+        5719,
+        5620
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        7419,
+        7319,
+        7218,
+        7118,
+        7017,
+        6917,
+        6816,
+        6716,
+        6615,
+        6515
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        7821,
+        7721
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        7919,
+        7920,
+        7818,
+        7717,
+        7616,
+        7515,
+        7414,
+        7313
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        7212,
+        7112,
+        7011,
+        6911,
+        6810,
+        6710,
+        6610
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        5174,
+        5074,
+        4973,
+        4872,
+        4771,
+        4670
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        5274
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        3247
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        5679,
+        5578,
+        5476,
+        5477
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        7085,
+        6985,
+        6885,
+        6785,
+        6684,
+        6584,
+        6483,
+        6383,
+        6282,
+        6182,
+        6081,
+        5981,
+        5880,
+        5780
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        8176,
+        8077,
+        7978,
+        7879,
+        7780,
+        7681,
+        7582,
+        7483,
+        7383,
+        7284,
+        7184
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        8175,
+        8074,
+        7974
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        7676,
+        7576,
+        7477,
+        7377,
+        7278,
+        7178,
+        7079,
+        6979,
+        6879,
+        6779,
+        6679
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 35,
+      "tilePositionOfsets": [
+        6578,
+        6478,
+        6377,
+        6277,
+        6176,
+        6076,
+        5975,
+        5874,
+        5773,
+        5672
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 110,
+      "tilePositionOfsets": [
+        2241
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 110,
+      "tilePositionOfsets": [
+        2249
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 55,
+      "tilePositionOfsets": [
+        1450
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 55,
+      "tilePositionOfsets": [
+        1250
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 55,
+      "tilePositionOfsets": [
+        1441
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 55,
+      "tilePositionOfsets": [
+        1241
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6558,
+        6459
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 89,
+      "tilePositionOfsets": [
+        2767
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        7142,
+        7041,
+        7042
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        7050,
+        7051,
+        7052
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        7150
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        3638
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        3238
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        3242
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        2838
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        2842
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        2847
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 75,
+      "tilePositionOfsets": [
+        2851
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 76,
+      "tilePositionOfsets": [
+        3256
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        4146,
+        4046,
+        3946,
+        3846
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 74,
+      "tilePositionOfsets": [
+        5858
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4160,
+        4161,
+        4162
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 330,
+      "tilePositionOfsets": [
+        4039
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 82,
+      "tilePositionOfsets": [
+        5238
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 50,
+      "tilePositionOfsets": [
+        4838
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 50,
+      "tilePositionOfsets": [
+        4438
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6036,
+        5934,
+        5935
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6055
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        6149,
+        6049,
+        5949
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        5849,
+        5749
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        6143,
+        6043,
+        5943,
+        5843,
+        5743
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6241
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        6244,
+        6245,
+        6246,
+        6247,
+        6248
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 83,
+      "tilePositionOfsets": [
+        5833
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 83,
+      "tilePositionOfsets": [
+        5433
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 83,
+      "tilePositionOfsets": [
+        5033
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 84,
+      "tilePositionOfsets": [
+        4633
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 181,
+      "tilePositionOfsets": [
+        6037
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 182,
+      "tilePositionOfsets": [
+        5937
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 183,
+      "tilePositionOfsets": [
+        5837
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 184,
+      "tilePositionOfsets": [
+        5737
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 185,
+      "tilePositionOfsets": [
+        5637
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5936
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6038,
+        5938,
+        5838,
+        5738
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 76,
+      "tilePositionOfsets": [
+        3633
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3432
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 76,
+      "tilePositionOfsets": [
+        3233
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3032,
+        2932
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2736,
+        2637,
+        2537,
+        2438
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2756,
+        2655,
+        2555,
+        2454
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3060,
+        2960,
+        2856,
+        2857,
+        2858,
+        2859
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        3061,
+        2961
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3260,
+        3160
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        3261,
+        3161
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2758
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2757,
+        2657,
+        2556,
+        2455,
+        2354
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2656
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2860
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2861,
+        2760
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2832,
+        2833,
+        2834,
+        2835,
+        2836
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3232,
+        3132
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        3231,
+        3131,
+        3031,
+        2931
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2831,
+        2732
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2733,
+        2734
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2735
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2636,
+        2536
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        2437,
+        2338
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        5729,
+        5730,
+        5731,
+        5732
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 83,
+      "tilePositionOfsets": [
+        5629
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 85,
+      "tilePositionOfsets": [
+        4828
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 330,
+      "tilePositionOfsets": [
+        4429
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 330,
+      "tilePositionOfsets": [
+        5229
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 51,
+      "tilePositionOfsets": [
+        5275
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 51,
+      "tilePositionOfsets": [
+        4718
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 92,
+      "tilePositionOfsets": [
+        4021
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 92,
+      "tilePositionOfsets": [
+        4069
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 82,
+      "tilePositionOfsets": [
+        4033
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4130,
+        4131
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4132
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        4467,
+        4468,
+        4469,
+        4367,
+        4368,
+        4369,
+        4266,
+        4267,
+        4268,
+        4269,
+        4166,
+        4167,
+        4168,
+        4169,
+        4065,
+        4066,
+        4067,
+        4068,
+        3965,
+        3966,
+        3967,
+        3968,
+        3864,
+        3865,
+        3866,
+        3867,
+        3868,
+        3764,
+        3765,
+        3766,
+        3767,
+        3768,
+        3663,
+        3664,
+        3665,
+        3666,
+        3667,
+        3668,
+        3563,
+        3564,
+        3565,
+        3566,
+        3567,
+        3568,
+        3462,
+        3463,
+        3464,
+        3465,
+        3466,
+        3467,
+        3468,
+        3362,
+        3363,
+        3364,
+        3365,
+        3366,
+        3367,
+        3368,
+        3262,
+        3263,
+        3264,
+        3265,
+        3266,
+        3267,
+        3268,
+        3162,
+        3163,
+        3164,
+        3165,
+        3062,
+        3063,
+        3064,
+        3065,
+        2962,
+        2963,
+        2964,
+        2965,
+        2862,
+        2863,
+        2864,
+        2865,
+        2730,
+        2731,
+        2761,
+        2762,
+        2630,
+        2631,
+        2632,
+        2633,
+        2634,
+        2635,
+        2658,
+        2659,
+        2660,
+        2661,
+        2662,
+        2530,
+        2531,
+        2532,
+        2533,
+        2534,
+        2535,
+        2557,
+        2558,
+        2559,
+        2560,
+        2561,
+        2562,
+        2430,
+        2431,
+        2432,
+        2433,
+        2434,
+        2435,
+        2436,
+        2456,
+        2457,
+        2458,
+        2459,
+        2460,
+        2461,
+        2462,
+        2330,
+        2331,
+        2332,
+        2333,
+        2334,
+        2335,
+        2336,
+        2337,
+        2355,
+        2356,
+        2357,
+        2358,
+        2359,
+        2360,
+        2361,
+        2362,
+        2230,
+        2231,
+        2232,
+        2233,
+        2234,
+        2235,
+        2236,
+        2237,
+        2238,
+        2239,
+        2240,
+        2252,
+        2253,
+        2254,
+        2255,
+        2256,
+        2257,
+        2258,
+        2259,
+        2260,
+        2261,
+        2262,
+        2130,
+        2131,
+        2132,
+        2133,
+        2134,
+        2135,
+        2136,
+        2137,
+        2138,
+        2139,
+        2140,
+        2152,
+        2153,
+        2154,
+        2155,
+        2156,
+        2157,
+        2158,
+        2159,
+        2160,
+        2161,
+        2162,
+        2030,
+        2031,
+        2032,
+        2033,
+        2034,
+        2035,
+        2036,
+        2037,
+        2038,
+        2039,
+        2040,
+        2052,
+        2053,
+        2054,
+        2055,
+        2056,
+        2057,
+        2058,
+        2059,
+        2060,
+        2061,
+        2062,
+        1938,
+        1939,
+        1940,
+        1941,
+        1942,
+        1943,
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1838,
+        1839,
+        1840,
+        1841,
+        1842,
+        1843,
+        1849,
+        1850,
+        1851,
+        1852,
+        1853,
+        1854,
+        1738,
+        1739,
+        1740,
+        1741,
+        1742,
+        1743,
+        1749,
+        1750,
+        1751,
+        1752,
+        1753,
+        1754,
+        1638,
+        1639,
+        1640,
+        1641,
+        1642,
+        1643,
+        1649,
+        1650,
+        1651,
+        1652,
+        1653,
+        1654
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        4522,
+        4422,
+        4423,
+        4424,
+        4425,
+        4322,
+        4323,
+        4324,
+        4325,
+        4222,
+        4223,
+        4224,
+        4225,
+        4226,
+        4122,
+        4123,
+        4124,
+        4125,
+        4126,
+        4026,
+        4027,
+        3926,
+        3927,
+        3826,
+        3827,
+        3828,
+        3726,
+        3727,
+        3728,
+        3626,
+        3627,
+        3628,
+        3629,
+        3526,
+        3527,
+        3528,
+        3529,
+        3426,
+        3427,
+        3428,
+        3429,
+        3430,
+        3326,
+        3327,
+        3328,
+        3329,
+        3330,
+        3226,
+        3227,
+        3228,
+        3229,
+        3230,
+        3128,
+        3129,
+        3130,
+        3028,
+        3029,
+        3030,
+        2928,
+        2929,
+        2930,
+        2828,
+        2829,
+        2830
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 54,
+      "tilePositionOfsets": [
+        2726
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 330,
+      "tilePositionOfsets": [
+        1357
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 330,
+      "tilePositionOfsets": [
+        1333
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7243
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7249
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7244,
+        7245,
+        7247,
+        7248
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7344,
+        7345,
+        7346,
+        7347,
+        7348
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7944,
+        7945
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7948
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7949
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7943,
+        7946,
+        7947
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7844,
+        7845,
+        7846,
+        7847,
+        7848
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        8044,
+        8045,
+        8046,
+        8047,
+        8048
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        8145,
+        8146,
+        8147
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        1944,
+        1945,
+        1946,
+        1947,
+        1948
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        1844,
+        1845,
+        1846,
+        1847,
+        1848
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6643,
+        6543
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        6649,
+        6549
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        6749
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        6743
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        7045,
+        7046,
+        7047
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        7146
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        7145,
+        7044
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        7246,
+        7147,
+        7048
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7143,
+        7144,
+        7043
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        7148,
+        7149,
+        7049
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 82,
+      "tilePositionOfsets": [
+        4456
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6752,
+        6753,
+        6754,
+        6755,
+        6756
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 106,
+      "tilePositionOfsets": [
+        6737,
+        6738,
+        6739,
+        6740
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        6937,
+        6938,
+        6939,
+        6837
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 99,
+      "tilePositionOfsets": [
+        6954,
+        6955,
+        6956,
+        6856
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4142
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4144
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4143,
+        4043,
+        3943
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4044,
+        3944
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4148,
+        4149
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4150
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        3948,
+        3949
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        4048,
+        4049
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        3842,
+        3843,
+        3844
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4145,
+        4045,
+        3945,
+        3845
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4147,
+        4047,
+        3947
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        3847,
+        3848,
+        3849
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        3950,
+        3850
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4050
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 26,
+      "tilePositionOfsets": [
+        4042,
+        3942
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 181,
+      "tilePositionOfsets": [
+        5264
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 182,
+      "tilePositionOfsets": [
+        5263
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 183,
+      "tilePositionOfsets": [
+        5262
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 184,
+      "tilePositionOfsets": [
+        5261
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 185,
+      "tilePositionOfsets": [
+        5260
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2342,
+        2343
+      ],
+      "shouldPause": false
+    },
+    {
+      "itemType": 25,
+      "tilePositionOfsets": [
+        2349,
+        2350
+      ],
+      "shouldPause": false
+    }
+  ],
+  "miscItems": [
+    {
+      "positionOfset": 5169,
+      "itemType": 1,
+      "number": 0
+    },
+    {
+      "positionOfset": 5123,
+      "itemType": 1,
+      "number": 1
+    },
+    {
+      "positionOfset": 4147,
+      "itemType": 1,
+      "number": 2
+    },
+    {
+      "positionOfset": 2475,
+      "itemType": 5,
+      "number": 0
+    },
+    {
+      "positionOfset": 2122,
+      "itemType": 5,
+      "number": 1
+    },
+    {
+      "positionOfset": 8069,
+      "itemType": 5,
+      "number": 2
+    },
+    {
+      "positionOfset": 7925,
+      "itemType": 5,
+      "number": 3
+    },
+    {
+      "positionOfset": 546,
+      "itemType": 5,
+      "number": 4
+    },
+    {
+      "positionOfset": 4465,
+      "itemType": 6,
+      "number": 0
+    },
+    {
+      "positionOfset": 4328,
+      "itemType": 6,
+      "number": 1
+    },
+    {
+      "positionOfset": 5425,
+      "itemType": 6,
+      "number": 2
+    },
+    {
+      "positionOfset": 5467,
+      "itemType": 6,
+      "number": 3
+    },
+    {
+      "positionOfset": 5566,
+      "itemType": 6,
+      "number": 4
+    },
+    {
+      "positionOfset": 5526,
+      "itemType": 6,
+      "number": 5
+    },
+    {
+      "positionOfset": 5347,
+      "itemType": 7,
+      "number": 0
+    },
+    {
+      "positionOfset": 5946,
+      "itemType": 7,
+      "number": 1
+    },
+    {
+      "positionOfset": 5546,
+      "itemType": 7,
+      "number": 2
+    },
+    {
+      "positionOfset": 5624,
+      "itemType": 7,
+      "number": 3
+    },
+    {
+      "positionOfset": 5666,
+      "itemType": 7,
+      "number": 4
+    },
+    {
+      "positionOfset": 4946,
+      "itemType": 11,
+      "number": 0
+    },
+    {
+      "positionOfset": 5548,
+      "itemType": 14,
+      "number": 0
+    },
+    {
+      "positionOfset": 4950,
+      "itemType": 14,
+      "number": 1
+    },
+    {
+      "positionOfset": 6746,
+      "itemType": 14,
+      "number": 2
+    },
+    {
+      "positionOfset": 4942,
+      "itemType": 14,
+      "number": 3
+    },
+    {
+      "positionOfset": 4967,
+      "itemType": 14,
+      "number": 4
+    },
+    {
+      "positionOfset": 4924,
+      "itemType": 14,
+      "number": 5
+    },
+    {
+      "positionOfset": 4049,
+      "itemType": 16,
+      "number": 0
+    },
+    {
+      "positionOfset": 4043,
+      "itemType": 16,
+      "number": 1
+    },
+    {
+      "positionOfset": 6847,
+      "itemType": 16,
+      "number": 2
+    },
+    {
+      "positionOfset": 6140,
+      "itemType": 16,
+      "number": 3
+    },
+    {
+      "positionOfset": 3931,
+      "itemType": 16,
+      "number": 4
+    },
+    {
+      "positionOfset": 3961,
+      "itemType": 16,
+      "number": 5
+    },
+    {
+      "positionOfset": 2142,
+      "itemType": 16,
+      "number": 6
+    },
+    {
+      "positionOfset": 2151,
+      "itemType": 16,
+      "number": 7
+    },
+    {
+      "positionOfset": 5544,
+      "itemType": 16,
+      "number": 8
+    },
+    {
+      "positionOfset": 6154,
+      "itemType": 16,
+      "number": 9
+    },
+    {
+      "positionOfset": 5625,
+      "itemType": 20,
+      "number": 0
+    },
+    {
+      "positionOfset": 5668,
+      "itemType": 20,
+      "number": 1
+    },
+    {
+      "positionOfset": 5346,
+      "itemType": 20,
+      "number": 2
+    },
+    {
+      "positionOfset": 2150,
+      "itemType": 20,
+      "number": 3
+    },
+    {
+      "positionOfset": 2143,
+      "itemType": 20,
+      "number": 4
+    }
+  ]
+}
