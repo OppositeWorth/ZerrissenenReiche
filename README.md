@@ -32,15 +32,13 @@ Jede KI verfolgt dabei ihren eigenen Spielstil und soll für abwechslungsreiche 
 
 Das Paket ist noch nicht vollständig abgeschlossen.
 
-Einige KIs werden in Zukunft überarbeitet, verbessert oder angepasst. Dazu gehört beispielsweise der Winterwolf, der zu einem späteren Zeitpunkt noch verbessert werden soll.
+Einige KIs werden in Zukunft überarbeitet, verbessert oder angepasst. Dazu gehört beispielsweise der Winterwolf, Nadia und Sultan Mehmet I die zu einem späteren Zeitpunkt noch verbessert werden soll.
 
 Außerdem sind weitere KIs geplant und werden nachgereicht:
 
 Niccolò
 Nadia
 Mahd
-Sultan Mehmet I
-Winterwolf
 
 Weitere Charaktere können im Laufe der Entwicklung hinzukommen.
 
