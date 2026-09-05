@@ -61,3 +61,51 @@ Je nach verwendeter Version des Spiels kann sich der entsprechende Ordner unters
 Die Zerrissenen Reiche soll eine Sammlung verschiedener KIs für Stronghold Crusader werden, die neue Herausforderungen und abwechslungsreiche Schlachten ermöglichen.
 
 Das Projekt befindet sich laufend in Entwicklung. Daher können sich Werte, Burgen, Strategien und das Verhalten einzelner KIs mit zukünftigen Updates verändern.
+
+⚔️ The Torn Realms
+
+Welcome to “The Torn Realms”, a Stronghold Crusader AI pack featuring my custom-created and modified AI characters.
+
+The pack introduces a variety of different opponents, each with their own playstyle, personality, and level of difficulty. Some AIs are still under development and will be improved or expanded over time.
+
+Note: This project is still in development. Some AIs may therefore be changed, rebalanced, or improved in future updates.
+
+🏰 Included AIs
+
+The following AIs are currently included in the pack:
+
+Anjun
+Armand
+Theo
+The Bull
+Bey Baran Kurtoglu
+Georgian
+Ghabi
+Halid al-Nur
+The Mistress
+Roderic
+Roi
+Sultan Mehmet I
+Winterwolf
+
+Each AI has its own approach to warfare and is intended to provide a different challenge on the battlefield.
+
+🔨 Development
+
+The pack is still actively being developed.
+
+Some AIs will receive improvements, adjustments, and further development in future updates. One example is Winterwolf, which will be improved and refined at a later stage.
+
+Additional AIs are also planned and will be added in future updates:
+
+Niccolò
+Nadia
+Mahd
+
+More characters may be added as development continues.
+
+🙏 Special Thanks
+
+A special thanks goes to LordPhoenix for the castles of Hulagu Khan.
+
+Thank you for your work and contribution to the project!
