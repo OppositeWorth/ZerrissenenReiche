@@ -39,6 +39,8 @@ Außerdem sind weitere KIs geplant und werden nachgereicht:
 Niccolò
 Nadia
 Mahd
+Sultan Mehmet I
+Winterwolf
 
 Weitere Charaktere können im Laufe der Entwicklung hinzukommen.
 
@@ -50,7 +52,7 @@ Vielen Dank für die Arbeit und die Unterstützung!
 
 📦 Installation
 
-Die enthaltenen KI-Dateien können in eurem Stronghold-Crusader-Verzeichnis installiert werden.
+Die enthaltenen KI-Dateien können in eurem Stronghold-Crusader-Verzeichnis installiert werden. Ich habe mich an der Ascension-Balance orientiert.
 
 Je nach verwendeter Version des Spiels kann sich der entsprechende Ordner unterscheiden. Bitte achtet darauf, vor der Installation ein Backup eurer vorhandenen Dateien anzulegen.
 
