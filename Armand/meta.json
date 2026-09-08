@@ -1,11 +1,11 @@
 {
   "name": "Armand",
   "description": "Der Eiserne",
-  "author": "Armand von Winterwolf",
+  "author": "Winterwolf",
   "link": "None",
   "version": "1.0.0",
   "defaultLang": "de",
-  "supportedLang": ["de", "en"],
+  "supportedLang": ["de"],
   "switched": {
     "binks": true,
     "speech": true,
