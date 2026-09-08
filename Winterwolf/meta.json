@@ -1,9 +1,9 @@
 {
   "name": "Winterwolf",
-  "description": "Die Winterwolf KI",
+  "description": "Winterwolf",
   "author": "Winterwolf",
-  "link": "https://github.com/OppositeWorth/Winterwolf-Stronghold-KI",
-  "version": "3.0.2",
+  "link": "",
+  "version": "1.0.2",
   "defaultLang": "de",
   "supportedLang": ["de"],
   "switched": {
