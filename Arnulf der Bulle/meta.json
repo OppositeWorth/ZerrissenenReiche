@@ -1,11 +1,11 @@
 {
-  "name": "Bulle",
-  "description": "Bulle KI",
+  "name": "Arnulf",
+  "description": "Arnulf der Bulle",
   "author": "Winterwolf",
   "link": "",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "defaultLang": "de",
-  "supportedLang": ["de", "en"],
+  "supportedLang": ["de"],
   "switched": {
     "binks": true,
     "speech": true,
