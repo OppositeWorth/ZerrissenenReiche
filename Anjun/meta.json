@@ -1,11 +1,11 @@
 {
   "name": "Anjun",
-  "description": "Die Anjun KI",
+  "description": "Anjun",
   "author": "Winterwolf",
   "link": "",
-  "version": "3.0.2",
+  "version": "1.0.2",
   "defaultLang": "de",
-  "supportedLang": ["de", "en"],
+  "supportedLang": ["de"],
   "switched": {
     "binks": true,
     "speech": true,
